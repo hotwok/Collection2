@@ -1,0 +1,16 @@
+﻿Web Tracing
+
+Set Build to this directory - no program open on debug
+C:\Program Files\UNIT4 Business World On! (v7)\Bin
+
+Web - run as admin, w3svc, process from all users
+
+IMS Tracing
+
+
+Server Process Tracing
+
+C:\Program Files (x86)\UNIT4 Business World On! (v7)\Bin\RunServer.exe
+
+Command line arguments - 187 is the NEXT run number - turn off the queue.
+agreibat 187 EI02 EI02 demom7

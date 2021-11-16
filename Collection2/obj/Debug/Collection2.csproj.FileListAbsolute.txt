@@ -1,0 +1,16 @@
+C:\Users\Gary\OneDrive\Projects\Collection2\Collection2\bin\Debug\Collection2.dll
+C:\Users\Gary\OneDrive\Projects\Collection2\Collection2\bin\Debug\Collection2.pdb
+C:\Users\Gary\OneDrive\Projects\Collection2\Collection2\bin\Debug\ACT.dll
+C:\Users\Gary\OneDrive\Projects\Collection2\Collection2\bin\Debug\ACT.xml
+C:\Users\Gary\OneDrive\Projects\Collection2\Collection2\obj\Debug\Collection2.csproj.CoreCompileInputs.cache
+C:\Users\Gary\OneDrive\Projects\Collection2\Collection2\obj\Debug\Collection2.dll
+C:\Users\Gary\OneDrive\Projects\Collection2\Collection2\obj\Debug\Collection2.pdb
+C:\Program Files (x86)\UNIT4 Business World M6\Bin\Collection2.dll
+C:\Program Files (x86)\UNIT4 Business World M6\Bin\Collection2.pdb
+C:\Program Files (x86)\UNIT4 Business World On! (v7)\Bin\Collection2.dll
+C:\Program Files (x86)\UNIT4 Business World On! (v7)\Bin\Collection2.pdb
+C:\Users\gclydesdale\Google Drive\Projects\Collection2\Collection2\obj\Debug\Collection2.csproj.CoreCompileInputs.cache
+C:\Users\gclydesdale\Google Drive\Projects\Collection2\Collection2\obj\Debug\Collection2.dll
+C:\Users\gclydesdale\Google Drive\Projects\Collection2\Collection2\obj\Debug\Collection2.pdb
+C:\Program Files\UNIT4 Business World On! (v7)\Bin\Collection2.dll
+C:\Program Files\UNIT4 Business World On! (v7)\Bin\Collection2.pdb
