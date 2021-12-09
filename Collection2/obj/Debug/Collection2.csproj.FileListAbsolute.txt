@@ -14,3 +14,13 @@ C:\Users\gclydesdale\Google Drive\Projects\Collection2\Collection2\obj\Debug\Col
 C:\Users\gclydesdale\Google Drive\Projects\Collection2\Collection2\obj\Debug\Collection2.pdb
 C:\Program Files\UNIT4 Business World On! (v7)\Bin\Collection2.dll
 C:\Program Files\UNIT4 Business World On! (v7)\Bin\Collection2.pdb
+G:\My Drive\Projects\Collection2\Collection2\obj\Debug\Collection2.csproj.CoreCompileInputs.cache
+G:\My Drive\Projects\Collection2\Collection2\obj\Debug\Collection2.dll
+G:\My Drive\Projects\Collection2\Collection2\obj\Debug\Collection2.pdb
+G:\My Drive\Projects\Collection2\Collection2\obj\Debug\Collection2.csproj.CopyComplete
+G:\My Drive\Projects\Collection2\Collection2\obj\Debug\Collection2.csproj.AssemblyReference.cache
+C:\Users\gclydesdale\source\repos\Collection2\Collection2\obj\Debug\Collection2.csproj.CoreCompileInputs.cache
+C:\Users\gclydesdale\source\repos\Collection2\Collection2\obj\Debug\Collection2.csproj.CopyComplete
+C:\Users\gclydesdale\source\repos\Collection2\Collection2\obj\Debug\Collection2.dll
+C:\Users\gclydesdale\source\repos\Collection2\Collection2\obj\Debug\Collection2.pdb
+C:\Users\gclydesdale\source\repos\Collection2\Collection2\obj\Debug\Collection2.csproj.AssemblyReference.cache
